@@ -1,10 +1,17 @@
-####
+#### Hi, I'm Niou !
 
 <a href="https://www.facebook.com/niou.dereume/" target="_blank"><img src="https://raw.githubusercontent.com/niou-dereume/niou-dereume/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/niou_pilot" target="_blank"><img src="https://raw.githubusercontent.com/niou-dereume/niou-dereume/master/tw.png" alt="Twitter" width="30"></a>
 <a href="https://www.linkedin.com/in/niou-dereume/" target="_blank"><img src="https://raw.githubusercontent.com/niou-dereume/niou-dereume/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/niou-dereume" target="_blank"><img src="https://raw.githubusercontent.com/niou-dereume/niou-dereume/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://mydelipharm.eu/" target="_blank"><img src="https://raw.githubusercontent.com/niou-dereume/niou-dereume/master/www.png" alt="MyDeliPharm" width="30"></a>
+
+#### Airplane Pilot to Web Development 
+
+I am a former pilot specialized in paratroopers dropping ops. From commanding aircrafts to becoming a front-end developer it's been an incredible journey.  After following a 6 months web development course at O'Clock coding school where I learned PHP (vanilla PHP, Lumens, Symphony) / SQL / MySQL / REST API / HTML5 / CSS, SCSS / Javascript and more... I chose to focus on REACT JS. 
+<br><br>
+Then, as a team of 5 aspiring developers, we embarked on a project which have proven to be a very rewarding experience : [MyDeliPharm](https://mydelipharm.eu/).
+During the course of 4 weeks we were able to deliver a prototype for a prescription drugs delivery web app in PHP (Symphony) & React JS using Agile and scrum approach in a fully remote setting. We worked in sprints and made full use of collaborative tools & methods (slack, discord, trello, pair-programming, peer review, git & github), we applied newly gained skills while learning a myriad of new ones and we were able to meet deadlines effectively.
 
 #### TECH STACK
 
