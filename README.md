@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<div>
+
   <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   <br/>
   <p align="left"> 
@@ -23,5 +23,5 @@
   
   </p>
 
-</div>
+
 
