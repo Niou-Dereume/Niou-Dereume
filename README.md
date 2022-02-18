@@ -1,5 +1,6 @@
 <div align="center">
 <h1>Hi, I'm Niou !</h1>
+  <h3><em>a front-end developer</em></h3>
 
 <a href="https://www.facebook.com/niou.dereume/" target="_blank"><img src="https://raw.githubusercontent.com/niou-dereume/niou-dereume/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://twitter.com/niou_pilot" target="_blank"><img src="https://raw.githubusercontent.com/niou-dereume/niou-dereume/master/tw.png" alt="Twitter" width="30"></a>
