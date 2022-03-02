@@ -18,6 +18,10 @@ During the course of 4 weeks we were able to deliver a prototype for a prescript
 <br><br>
 Our CRUD app connects patients, pharmacists and drivers, aiming at making prescription drugs delivery hassle free. 
 
+Currently working on : 
+
+=> Simultaneous Bi-Directional Client-Server Communication
+
 #### TECH STACK
 
 <div>
