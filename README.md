@@ -20,7 +20,7 @@ Our CRUD app connects patients, pharmacists and drivers, aiming at making prescr
 
 Currently working on : 
 
-=> Simultaneous Bi-Directional Client-Server Communication
+=> Simultaneous Bi-Directional Client-Server Communication using the Mercure protocol
 
 #### TECH STACK
 
