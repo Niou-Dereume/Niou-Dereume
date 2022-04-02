@@ -12,7 +12,7 @@
 
 #### Airplane Pilot to Web Development 
 
-I am a former pilot specialized in paratroopers dropping ops. From commanding aircrafts to becoming a front-end developer it's been an incredible journey.  After following a 6 months web development course at [O'Clock](https://oclock.io/formations/developpeur-web) coding school where I learned Object Oriented Programming | PHP (vanilla PHP, Lumens, Symfony) | SQL | MySQL | REST API | HTML | CSS | Javascript and more... I chose to focus on REACT JS. 
+I am a former pilot. From commanding aircrafts to becoming a front-end developer it's been an incredible journey.  After following a 6 months web development course at [O'Clock](https://oclock.io/formations/developpeur-web) coding school where I learned Object Oriented Programming | PHP (vanilla PHP, Lumens, Symfony) | SQL | MySQL | REST API | HTML | CSS | Javascript and more... I chose to focus on REACT JS. 
 <br><br>
 Then, as a team of 5 aspiring developers, we embarked on a project which have proven to be a very rewarding experience : [MyDeliPharm](https://mydelipharm.eu/).
 During the course of 4 weeks we were able to deliver a prototype for a prescription drugs delivery web app in PHP (Symfony) & React JS utilizing Agile tenets and scrum approach in a fully remote setting. We worked in sprints and made full use of collaborative tools & methods (slack, discord, Kanban, pair-programming, peer review, git & github...), we applied newly gained skills while learning a myriad of new ones along the way and we were able to meet deadlines effectively. 
